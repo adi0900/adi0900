@@ -41,10 +41,10 @@ I'm a self-driven developer with a love for clean code and user-centric design. 
 </table>
 
 <div align="center">
-  <a href="https://aditya-portfolio.com" target="_blank">
+  <a href="https://www.itsadi.me/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-2ea44f?style=for-the-badge" alt="Portfolio">
   </a>
-  <a href="https://aditya-studio.com" target="_blank">
+  <a href="https://www.visualab.studio/" target="_blank">
     <img src="https://img.shields.io/badge/🎨_Studio-8e44ad?style=for-the-badge" alt="Studio">
   </a>
   <a href="https://linkedin.com/in/aditya-k" target="_blank">
