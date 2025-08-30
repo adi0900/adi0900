@@ -6,7 +6,7 @@
 </div>
 
 <h3 align="center">
-  A Hackathon-Winning Frontend Developer from India, transforming ideas into beautiful and functional web experiences 🚀
+  A Frontend Developer and Hackathon Competitor from India, transforming ideas into beautiful and functional web experiences 🚀
 </h3>
 
 <br>
@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 I'm a self-driven developer with a love for clean code and user-centric design. I enjoy bridging the gap between design and development, bringing mockups to life with precision and creativity.
 
-- 🥇 I thrive in competitive environments and have won several major hackathons, including those by **Google** and **Informatica**.
+- 🚀 I thrive in competitive environments and have participated in major hackathons hosted by **Google** and **Informatica**.
 
 - 🔭 I’m currently focused on building responsive and performant web applications using the **React ecosystem (Next.js & TypeScript)**.
 
@@ -124,10 +124,10 @@ I'm a self-driven developer with a love for clean code and user-centric design. 
 
 ### 🏆 Hackathon Achievements
 
-- 🥇 **1st Place** @ **Google Gen AI Hackathon**
-- 🥇 **1st Place** @ **Informatica Hackathon**
-- 🥇 **1st Place** @ **MNIT Web-A-Thon**
-- 🏅 Top Finalist & Participant in several other national hackathons
+- **Google Gen AI Hackathon**
+- **Informatica Hackathon**
+- **MNIT Web-A-Thon**
+- ... and several other national hackathons.
 
 <br>
 
