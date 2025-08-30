@@ -26,16 +26,16 @@ I'm a self-driven developer with a love for clean code and user-centric design. 
 
 - 💬 Feel free to ask me about **Frontend Development, UI/UX Design, and Hackathon Strategies**!
 
-    </td>
+<br> </td>
     <td valign="top" width="35%">
-      
-  <a href="https://github.com/adi0900">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adi0900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditya's GitHub stats" />
-  </a>
-  <a href="https://github.com/adi0900">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi0900&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aditya's Top Languages" />
-  </a>
-      
+      <div align="center">
+        <a href="https://github.com/adi0900">
+          <img src="https://github-readme-stats.vercel.app/api?username=adi0900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&height=180px" alt="Aditya's GitHub stats" />
+        </a>
+        <a href="https://github.com/adi0900">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adi0900&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&height=180px" alt="Aditya's Top Languages" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
