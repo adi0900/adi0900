@@ -38,11 +38,13 @@
 
 <br/>
 
+<!-- Contribution Snake Section -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adi0900/adi0900/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adi0900/adi0900/output/github-contribution-grid-snake.svg">
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/adi0900/adi0900/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 <br />
 
