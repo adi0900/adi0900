@@ -4,44 +4,47 @@
 </div>
 
 <h3 align="center">
-  Building sharper identity systems, cleaner web experiences, and more useful AI-assisted design workflows.
+  A design-led practice building sharper brand systems, more credible product sites, and cleaner AI workflows.
 </h3>
 
 <br />
 
 <table>
   <tr>
-    <td valign="top" width="62%">
+    <td valign="top" width="60%">
 
-### About MotionViz
+### Founder Note
 
-MotionViz is a design-led workspace focused on turning vague creative prompts into structured outputs that feel deliberate, presentable, and implementation-aware.
+MotionViz is built around a simple belief: most AI-assisted design work does not fail because the tools are weak. It fails because the direction is weak.
 
-The work usually sits at the intersection of:
+This space is where I develop systems that give creative work more backbone before it turns into output. The focus is not volume. The focus is taste, structure, and decisions that can hold up under scrutiny.
 
-- visual identity direction
-- premium landing page and product-site design
-- AI-assisted creative workflows
-- frontend-aware design thinking
+I care most about work that feels:
 
-This GitHub is where those systems get shaped, refined, and turned into reusable tools.
+- reduced, not inflated
+- intentional, not trend-chased
+- structured, not assembled
+- premium, not decorative
 
-### Current Focus
+### What I Build
 
-- building the MotionViz skill library
-- refining brand-system and web-experience prompt frameworks
-- improving output quality across GPT API, FLORA, and ChatGPT
-- keeping design work structured instead of generic
+- identity systems with stronger symbolic logic
+- product-site concepts with clearer interface rhythm
+- reusable prompt frameworks for creative teams
+- design workflows that stay useful after the first draft
 
-### Working Principles
+### Current Direction
 
-- strong concepts over surface styling
-- systems over scattered inspiration
-- restraint over visual noise
-- useful outputs over inflated process
+Right now, MotionViz is centered on a compact skill library for:
+
+- visual identity generation
+- premium web experience direction
+- AI-assisted creative tooling
+
+The goal is to make these workflows more reliable, more distinct, and less generic.
 
     </td>
-    <td valign="top" width="38%">
+    <td valign="top" width="40%">
       <div align="center">
         <a href="https://github.com/adi0900" aria-label="GitHub Stats">
           <img src="https://github-readme-stats.vercel.app/api?username=adi0900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MotionViz GitHub stats" />
@@ -59,57 +62,45 @@ This GitHub is where those systems get shaped, refined, and turned into reusable
   <a href="https://linktr.ee/motionviz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/MotionViz-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="MotionViz" />
   </a>
-  <a href="https://www.visualab.studio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Studio-6f42c1?style=for-the-badge" alt="Studio" />
-  </a>
-  <a href="https://www.linkedin.com/in/adityak777/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.behance.net/adityask386" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="mailto:adi1423tya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 ---
 
-### What Lives Here
+### Practice Areas
 
 <table align="center" cellspacing="10" cellpadding="10">
   <tr>
-    <td align="center" width="180"><strong>Identity Systems</strong></td>
-    <td>Brand direction, logo logic, typography systems, palette structure, and condensed guideline-style outputs.</td>
+    <td align="center" width="180"><strong>Brand Systems</strong></td>
+    <td>Logo logic, typography structure, color discipline, and identity outputs that feel like compressed guidelines instead of moodboards.</td>
   </tr>
   <tr>
     <td align="center"><strong>Web Experience</strong></td>
-    <td>Landing pages, product-site direction, interface-led compositions, and technical visual systems for serious software products.</td>
+    <td>Landing pages and product sites that feel composed, technically credible, and built from a clear product idea.</td>
   </tr>
   <tr>
-    <td align="center"><strong>Workflow Design</strong></td>
-    <td>Prompt frameworks, reusable skill files, and practical AI workflows that reduce generic output drift.</td>
+    <td align="center"><strong>Creative Tooling</strong></td>
+    <td>Reusable instruction systems, prompt architecture, and workflow design for teams using AI with more intention.</td>
   </tr>
 </table>
 
-### Tools And Stack
+### Core Stack
 
 <div align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" /></a>
   <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="TailwindCSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /></a>
   <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /></a>
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /></a>
 </div>
 
-### Repo Highlights
+### Selected Focus
 
-- `MV-Design`: MotionViz skill library for identity and web experience generation
-- reusable prompt systems for structured design output
-- experiments around creative tooling, presentation logic, and frontend-aware design direction
+- building the MotionViz skill library
+- refining AI-first design direction systems
+- developing cleaner workflows for identity and website concept generation
+- pushing creative output toward stronger judgment, not just stronger styling
 
-### Contact
+### Connect
 
 - MotionViz hub: `https://linktr.ee/motionviz`
