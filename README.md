@@ -46,13 +46,9 @@ The goal is to make these workflows more reliable, more distinct, and less gener
     </td>
     <td valign="top" width="40%">
       <div align="center">
-        <a href="https://github.com/adi0900" aria-label="GitHub Stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=adi0900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MotionViz GitHub stats" />
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api?username=adi0900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MotionViz GitHub stats" />
         <br />
-        <a href="https://github.com/adi0900" aria-label="Top Languages">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adi0900&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="MotionViz top languages" />
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adi0900&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="MotionViz top languages" />
       </div>
     </td>
   </tr>
@@ -86,12 +82,12 @@ The goal is to make these workflows more reliable, more distinct, and less gener
 ### Core Stack
 
 <div align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="TailwindCSS" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
 </div>
 
 ### Selected Focus
