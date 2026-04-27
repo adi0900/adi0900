@@ -1,102 +1,95 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving hand" />
-  <h1>Hi, I'm MotionViz</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42" alt="Waving hand" />
+  <h1>MotionViz</h1>
+  <p>
+    A design-led practice building sharper brand systems, more credible product sites, and cleaner AI workflows.
+  </p>
+  <p>
+    <a href="https://linktr.ee/motionviz" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/MotionViz-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="MotionViz" />
+    </a>
+  </p>
 </div>
-
-<h3 align="center">
-  A design-led practice building sharper brand systems, more credible product sites, and cleaner AI workflows.
-</h3>
 
 <br />
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="60%">
-
-### Founder Note
-
-MotionViz is built around a simple belief: most AI-assisted design work does not fail because the tools are weak. It fails because the direction is weak.
-
-This space is where I develop systems that give creative work more backbone before it turns into output. The focus is not volume. The focus is taste, structure, and decisions that can hold up under scrutiny.
-
-I care most about work that feels:
-
-- reduced, not inflated
-- intentional, not trend-chased
-- structured, not assembled
-- premium, not decorative
-
-### What I Build
-
-- identity systems with stronger symbolic logic
-- product-site concepts with clearer interface rhythm
-- reusable prompt frameworks for creative teams
-- design workflows that stay useful after the first draft
-
-### Current Direction
-
-Right now, MotionViz is centered on a compact skill library for:
-
-- visual identity generation
-- premium web experience direction
-- AI-assisted creative tooling
-
-The goal is to make these workflows more reliable, more distinct, and less generic.
-
+    <td width="58%" valign="top">
+      <h3>Founder Note</h3>
+      <p>
+        MotionViz is built around a simple belief: AI design work usually fails before the visuals even begin.
+        Weak direction creates generic output. Better structure creates better taste.
+      </p>
+      <p>
+        This space is where I shape systems that give creative work more backbone before it turns into output.
+        The goal is not more noise. The goal is stronger judgment.
+      </p>
+      <p><strong>What the work aims for:</strong></p>
+      <ul>
+        <li>reduced, not inflated</li>
+        <li>intentional, not trend-chased</li>
+        <li>structured, not assembled</li>
+        <li>premium, not decorative</li>
+      </ul>
     </td>
-    <td valign="top" width="40%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=adi0900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MotionViz GitHub stats" />
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adi0900&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="MotionViz top languages" />
-      </div>
+    <td width="42%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=adi0900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MotionViz GitHub stats" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adi0900&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="MotionViz top languages" />
     </td>
   </tr>
 </table>
 
+<br />
+
 <div align="center">
-  <a href="https://linktr.ee/motionviz" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/MotionViz-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="MotionViz" />
-  </a>
+  <img src="https://img.shields.io/badge/Brand_Systems-0f172a?style=flat-square" alt="Brand Systems" />
+  <img src="https://img.shields.io/badge/Web_Experience-111827?style=flat-square" alt="Web Experience" />
+  <img src="https://img.shields.io/badge/Creative_Tooling-1f2937?style=flat-square" alt="Creative Tooling" />
+  <img src="https://img.shields.io/badge/AI_Workflows-374151?style=flat-square" alt="AI Workflows" />
 </div>
 
----
+<h3>What I Build</h3>
 
-### Practice Areas
-
-<table align="center" cellspacing="10" cellpadding="10">
+<table width="100%">
   <tr>
-    <td align="center" width="180"><strong>Brand Systems</strong></td>
-    <td>Logo logic, typography structure, color discipline, and identity outputs that feel like compressed guidelines instead of moodboards.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Web Experience</strong></td>
-    <td>Landing pages and product sites that feel composed, technically credible, and built from a clear product idea.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Creative Tooling</strong></td>
-    <td>Reusable instruction systems, prompt architecture, and workflow design for teams using AI with more intention.</td>
+    <td width="33%" valign="top">
+      <strong>Identity Systems</strong>
+      <p>Logo logic, type structure, palette discipline, and outputs that feel closer to compressed guidelines than moodboards.</p>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Web Experience</strong>
+      <p>Landing pages and product-site concepts with clearer rhythm, stronger hierarchy, and more believable product thinking.</p>
+    </td>
+    <td width="34%" valign="top">
+      <strong>Workflow Design</strong>
+      <p>Reusable prompt systems and creative tooling that reduce generic drift across GPT API, FLORA, and ChatGPT.</p>
+    </td>
   </tr>
 </table>
 
-### Core Stack
+<h3>Current Focus</h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-</div>
+<ul>
+  <li>building the MotionViz skill library</li>
+  <li>refining AI-first design direction systems</li>
+  <li>developing cleaner workflows for identity and website concept generation</li>
+  <li>pushing output toward stronger judgment, not just stronger styling</li>
+</ul>
 
-### Selected Focus
+<h3>Core Stack</h3>
 
-- building the MotionViz skill library
-- refining AI-first design direction systems
-- developing cleaner workflows for identity and website concept generation
-- pushing creative output toward stronger judgment, not just stronger styling
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="38" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="38" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" alt="Python" />
+</p>
 
-### Connect
+<h3>Selected Repository</h3>
 
-- MotionViz hub: `https://linktr.ee/motionviz`
+<p><strong>MV-Design</strong><br />
+MotionViz skill library for identity direction, web experience design, and AI-assisted creative workflows.</p>
